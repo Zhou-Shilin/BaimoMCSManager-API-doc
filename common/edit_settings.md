@@ -4,7 +4,7 @@ description: edit_settings
 
 # 更新面板设置
 
-## edit\_settings(...)
+## edit\_settings(...) <a href="#function_name" id="function_name"></a>
 
 完整方法：hon
 

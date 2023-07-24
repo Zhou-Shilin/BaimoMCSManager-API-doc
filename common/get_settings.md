@@ -4,7 +4,7 @@ description: get_settings
 
 # 获取面板设置
 
-## get\_settings(url, apikey)
+## get\_settings(url, apikey) <a href="#function_name" id="function_name"></a>
 
 返回类型：`json`
 

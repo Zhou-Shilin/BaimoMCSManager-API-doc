@@ -4,7 +4,7 @@ description: get_status
 
 # 获取远程实例状态
 
-## get\_status(url, uuid, remote\_uuid, apikey)
+## get\_status(url, uuid, remote\_uuid, apikey) <a href="#function_name" id="function_name"></a>
 
 返回类型：`int`
 

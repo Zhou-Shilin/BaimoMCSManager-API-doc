@@ -4,7 +4,7 @@ description: get_info
 
 # 获取远程实例详情信息
 
-## get\_info(url, uuid, remote\_uuid, apikey
+## get\_info(url, uuid, remote\_uuid, apikey <a href="#function_name" id="function_name"></a>
 
 返回类型：`json`
 
